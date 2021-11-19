@@ -60,7 +60,7 @@ $switch-active-color: $primary-color !default;
     color: transparent;
     cursor: pointer;
     display: block;
-    margin-bottom: ($switch-height-med / 2);
+    margin-bottom: ($switch-height-med * 0.5);
     position: relative;
     text-indent: 100%;
     width: $switch-height-med * 2; height: $switch-height-med;
